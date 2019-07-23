@@ -1,0 +1,31 @@
+[{
+    "device_id": 2,
+    "single_comm_fit": 0,
+    "double_comm_fit": 0,
+    "single_paid": 0,
+    "double_paid": 0,
+    "single_not_paid": 0,
+    "double_not_paid": 0,
+    "single_report": 0,
+    "double_report": 0
+}, {
+    "device_id": 3,
+    "single_comm_fit": 469,
+    "double_comm_fit": 22,
+    "single_paid": 0,
+    "double_paid": 0,
+    "single_not_paid": 469,
+    "double_not_paid": 22,
+    "single_report": 469,
+    "double_report": 22
+}, {
+    "device_id": 112,
+    "single_comm_fit": 196,
+    "double_comm_fit": 13,
+    "single_paid": 103,
+    "double_paid": 3,
+    "single_not_paid": 93,
+    "double_not_paid": 10,
+    "single_report": 196,
+    "double_report": 13
+}]

@@ -1,0 +1,234 @@
+[{
+    "title": "\u0410\u043d\u0430\u043f\u0430 \u0422\u04221",
+    "lastresponse": "2019-07-03 15:27:20",
+    "status": "online",
+    "device_id": 2,
+    "single_comm_fit": 0,
+    "double_comm_fit": 0,
+    "single_paid": 0,
+    "double_paid": 0,
+    "single_not_paid": 0,
+    "double_not_paid": 0,
+    "single_report": 0,
+    "double_report": 0
+}, {
+    "title": "\u0410\u043d\u0430\u043f\u0430 \u0422\u04222",
+    "lastresponse": "2019-07-03 15:27:20",
+    "status": "online",
+    "device_id": 3
+}, {
+    "title": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c \u0422\u04221",
+    "lastresponse": "2019-07-03 15:27:21",
+    "status": "online",
+    "device_id": 112
+}, {
+    "title": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a \u0422\u04221",
+    "lastresponse": "2019-07-03 15:27:22",
+    "status": "online",
+    "device_id": 163
+}, {
+    "title": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a \u0422\u04222",
+    "lastresponse": "2019-07-03 15:27:24",
+    "status": "online",
+    "device_id": 164
+}, {
+    "title": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a \u0422\u04223",
+    "lastresponse": "2019-07-03 15:27:25",
+    "status": "online",
+    "device_id": 178
+}, {
+    "title": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436  \u0422\u04221",
+    "lastresponse": "2019-07-03 15:27:26",
+    "status": "online",
+    "device_id": 116
+}, {
+    "title": "\u0413\u0435\u043b\u0435\u043d\u0434\u0436\u0438\u043a",
+    "lastresponse": "2019-07-03 15:27:26",
+    "status": "online",
+    "device_id": 117
+}, {
+    "title": "\u0414\u043e\u043c\u043e\u0434\u0435\u0434\u043e\u0432\u043e VIP",
+    "lastresponse": "2019-07-03 15:27:30",
+    "status": "online",
+    "device_id": 129
+}, {
+    "title": "\u0414\u043e\u043c\u043e\u0434\u0435\u0434\u043e\u0432\u043e \u0422\u04221",
+    "lastresponse": "2019-07-03 15:27:30",
+    "status": "online",
+    "device_id": 130
+}, {
+    "title": "\u0414\u043e\u043c\u043e\u0434\u0435\u0434\u043e\u0432\u043e \u0422\u04222",
+    "lastresponse": "2019-07-03 15:27:30",
+    "status": "online",
+    "device_id": 131
+}, {
+    "title": "\u0414\u043e\u043c\u043e\u0434\u0435\u0434\u043e\u0432\u043e \u0422\u04225",
+    "lastresponse": "2019-07-03 15:27:30",
+    "status": "online",
+    "device_id": 132
+}, {
+    "title": "\u0414\u043e\u043c\u043e\u0434\u0435\u0434\u043e\u0432\u043e \u0422\u04226",
+    "lastresponse": "2019-07-03 15:27:33",
+    "status": "online",
+    "device_id": 133
+}, {
+    "title": "\u041a\u0430\u0437\u0430\u043d\u044c \u0422\u04221",
+    "lastresponse": "2019-07-03 15:27:27",
+    "status": "online",
+    "device_id": 118
+}, {
+    "title": "\u041a\u0430\u0437\u0430\u043d\u044c \u0422\u04222",
+    "lastresponse": "2019-07-03 15:27:27",
+    "status": "online",
+    "device_id": 119
+}, {
+    "title": "\u041a\u0430\u0437\u0430\u043d\u044c \u0422\u04223",
+    "lastresponse": "2019-07-03 15:27:27",
+    "status": "online",
+    "device_id": 181
+}, {
+    "title": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440 \u0422\u04221",
+    "lastresponse": "2019-07-03 15:27:28",
+    "status": "online",
+    "device_id": 123
+}, {
+    "title": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440 \u0422\u04222 \u041c\u0412\u041b",
+    "lastresponse": "2019-07-03 15:27:29",
+    "status": "online",
+    "device_id": 124
+}, {
+    "title": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440 \u0422\u04223",
+    "lastresponse": "2019-07-03 15:27:28",
+    "status": "online",
+    "device_id": 125
+}, {
+    "title": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a \u0422\u04221",
+    "lastresponse": "2019-07-03 15:27:40",
+    "status": "online",
+    "device_id": 142
+}, {
+    "title": "\u041d.\u0427\u0435\u043b\u043d\u044b (\u0411\u0435\u0433\u0438\u0448\u0435\u0432\u043e)",
+    "lastresponse": "2019-07-03 15:27:41",
+    "status": "online",
+    "device_id": 143
+}, {
+    "title": "\u041e\u043c\u0441\u043a \u0422\u04221",
+    "lastresponse": "2019-07-03 15:27:41",
+    "status": "online",
+    "device_id": 144
+}, {
+    "title": "\u041e\u043c\u0441\u043a \u0422\u04222",
+    "lastresponse": "2019-07-03 15:27:42",
+    "status": "online",
+    "device_id": 145
+}, {
+    "title": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d \u0422\u04221",
+    "lastresponse": "2019-07-03 15:28:30",
+    "status": "online",
+    "device_id": 149
+}, {
+    "title": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d \u0422\u04222",
+    "lastresponse": "2019-07-03 15:28:32",
+    "status": "online",
+    "device_id": 150
+}, {
+    "title": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d \u0422\u04223",
+    "lastresponse": "2019-07-03 15:28:34",
+    "status": "online",
+    "device_id": 151
+}, {
+    "title": "\u0421\u043e\u0447\u0438 \u0422\u04221",
+    "lastresponse": "2019-07-03 15:27:43",
+    "status": "online",
+    "device_id": 152
+}, {
+    "title": "\u0421\u043e\u0447\u0438 \u0422\u04222",
+    "lastresponse": "2019-07-03 10:57:34",
+    "status": "online",
+    "device_id": 153
+}, {
+    "title": "\u0421\u043e\u0447\u0438 \u0422\u04223",
+    "lastresponse": "2019-07-03 15:28:05",
+    "status": "online",
+    "device_id": 154
+}, {
+    "title": "\u0421\u043e\u0447\u0438 \u0422\u04224",
+    "lastresponse": "2019-07-03 10:57:36",
+    "status": "offline",
+    "device_id": 155
+}, {
+    "title": "\u0421.\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "lastresponse": "2019-07-03 15:27:42",
+    "status": "online",
+    "device_id": 148
+}, {
+    "title": "\u0421\u0443\u0440\u0433\u0443\u0442 \u0422\u04221",
+    "lastresponse": "2019-07-03 15:28:27",
+    "status": "online",
+    "device_id": 156
+}, {
+    "title": "\u0421\u0443\u0440\u0433\u0443\u0442 \u0422\u04222",
+    "lastresponse": "2019-07-03 15:28:27",
+    "status": "online",
+    "device_id": 157
+}, {
+    "title": "\u0423\u0444\u0430 B\u0412\u041b \u0422\u04221",
+    "lastresponse": "2019-07-03 15:28:28",
+    "status": "online",
+    "device_id": 159
+}, {
+    "title": "\u0423\u0444\u0430 \u041c\u0412\u041b \u0422\u04222",
+    "lastresponse": "2019-07-03 15:28:28",
+    "status": "online",
+    "device_id": 160
+}, {
+    "title": "\u0428\u0435\u0440\u0435\u043c\u0435\u0442\u044c\u0435\u0432\u043e B1",
+    "lastresponse": "2019-07-03 15:27:34",
+    "status": "online",
+    "device_id": 169
+}, {
+    "title": "\u0428\u0435\u0440\u0435\u043c\u0435\u0442\u044c\u0435\u0432\u043e B2",
+    "lastresponse": "2019-07-03 15:27:35",
+    "status": "online",
+    "device_id": 177
+}, {
+    "title": "\u0428\u0435\u0440\u0435\u043c\u0435\u0442\u044c\u0435\u0432\u043e B3",
+    "lastresponse": "2019-07-03 15:27:35",
+    "status": "online",
+    "device_id": 179
+}, {
+    "title": "\u0428\u0435\u0440\u0435\u043c\u0435\u0442\u044c\u0435\u0432\u043e E1_1",
+    "lastresponse": "2019-07-03 15:27:36",
+    "status": "online",
+    "device_id": 134
+}, {
+    "title": "\u0428\u0435\u0440\u0435\u043c\u0435\u0442\u044c\u0435\u0432\u043e E1_2",
+    "lastresponse": "2019-07-03 15:27:36",
+    "status": "online",
+    "device_id": 135
+}, {
+    "title": "\u0428\u0435\u0440\u0435\u043c\u0435\u0442\u044c\u0435\u0432\u043e E3",
+    "lastresponse": "2019-07-03 15:27:37",
+    "status": "online",
+    "device_id": 176
+}, {
+    "title": "\u0428\u0435\u0440\u0435\u043c\u0435\u0442\u044c\u0435\u0432\u043e F1_1",
+    "lastresponse": "2019-07-03 15:27:38",
+    "status": "online",
+    "device_id": 138
+}, {
+    "title": "\u0428\u0435\u0440\u0435\u043c\u0435\u0442\u044c\u0435\u0432\u043e F1_2",
+    "lastresponse": "2019-07-03 15:27:38",
+    "status": "online",
+    "device_id": 139
+}, {
+    "title": "\u0428\u0435\u0440\u0435\u043c\u0435\u0442\u044c\u0435\u0432\u043e F2_1",
+    "lastresponse": "2019-07-03 15:27:39",
+    "status": "online",
+    "device_id": 140
+}, {
+    "title": "\u0428\u0435\u0440\u0435\u043c\u0435\u0442\u044c\u0435\u0432\u043e F2_2",
+    "lastresponse": "2019-07-03 15:27:39",
+    "status": "online",
+    "device_id": 141
+}]
